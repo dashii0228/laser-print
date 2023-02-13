@@ -1,5 +1,5 @@
 ---
-title: Our services
+title: Манай үйлчилгээ
 type: Бүтээгдэхүүн
 image: /img/products-jumbotron.jpg
 heading: Бидэнд ямар боломж байна?
